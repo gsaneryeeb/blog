@@ -1,8 +1,6 @@
 ---
 layout: page
 title: SaneryeeInSide by github
-category:[lessons, beginner]
-tags:[how-to, jekyll]
 ---
 <ul class="posts">
 	{% for post in site.posts %}
