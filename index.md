@@ -1,6 +1,8 @@
 ---
-layout: page
-title: MyBlog
+layout: post
+title: SaneryeeInSide by github
+category:[lessons, beginner]
+tags:[how-to, jekyll]
 ---
 <ul class="pots">
 	{% for post in site.posts %}
