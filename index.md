@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: SaneryeeInSide by github
 category:[lessons, beginner]
 tags:[how-to, jekyll]
