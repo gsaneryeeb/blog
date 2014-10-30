@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SaneryeeInSide
+title: SaneryeeInSite
 ---
 <ul class="pots">
 	{% for post in site.posts %}
