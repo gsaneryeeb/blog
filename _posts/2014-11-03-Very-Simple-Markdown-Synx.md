@@ -1,8 +1,13 @@
-# Very Simple Markdown Synx
+---
+layout: page
+title: Very Simple Markdown Synx
+---
+
+##{{ page.title }}
 
 
 
-## \# ## ### Headers
+### \# ## ### Headers
 
 ***
 
@@ -83,4 +88,4 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 
 
 
-
+{{ page.date | data_to_string}}
