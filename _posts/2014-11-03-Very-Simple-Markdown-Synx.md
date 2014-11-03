@@ -60,7 +60,7 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 
 ![pic text](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")
 
-\![pic text\](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")
+![\!\[pic text\](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")
 
 
 
@@ -71,9 +71,9 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 ![pic text][2]
 
 
-![\![pic text\]\[1\]][1]
+![\!\[pic text\]\[1\]][1]
 
-![\![pic text\]\[2\]][2]
+![\!\[pic text\]\[2\]][2]
 
 ...
 
