@@ -54,7 +54,7 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 
 *\*italic\**
 
-**\**bold**\**
+** \*\*bold\*\* **
 
 ***
 
