@@ -60,7 +60,7 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 
 ![pic text](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")
 
-![\!\[pic text\](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")
+    \!\[pic text\](http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "Benz")
 
 
 
@@ -71,14 +71,14 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 ![pic text][2]
 
 
-![\!\[pic text\]\[1\]][1]
+    \!\[pic text\]\[1\]
 
-![\!\[pic text\]\[2\]][2]
+    \!\[pic text\]\[2\]
 
 ...
 
-\[1]:http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "benz"
-\[2]:http://www.daimler.com/Projects/c2c/channel/images/998887_1945818_325_110_smart.jpg "smart"
+    \[1]:http://www.daimler.com/Projects/c2c/channel/images/998886_1945816_325_110_mb_passcars.jpg "benz"
+    \[2]:http://www.daimler.com/Projects/c2c/channel/images/998887_1945818_325_110_smart.jpg "smart"
 
 
 
