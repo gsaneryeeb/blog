@@ -16,6 +16,7 @@ title: Very Simple Markdown Synx
 ***
 
 * \* ,+,-, 1. Lists
+
 1. 1\. Lists
 
 ***
@@ -70,9 +71,9 @@ Reference-style links:[\[link1\]\[1\]][1] and [\[link2\]\[2\]][2]
 ![pic text][2]
 
 
-\![pic text\][1]
+![\![pic text\]\[1\]][1]
 
-\![pic text\][2]
+![\![pic text\]\[2\]][2]
 
 ...
 
